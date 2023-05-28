@@ -1,0 +1,45 @@
+ 
+.secaoSobreConteudo{
+    font-size: 2.25rem;
+    line-height: 3rem;
+    text-align: left;
+    color: #fff;
+    padding: .5rem;  
+}
+  
+.SecaoSobre a {
+    display: flex;
+    background-color: transparent;
+    border-color: white;
+    color: white;
+    border-radius: 5px;
+    border: 2px solid;
+    font-size: large;
+    padding: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    justify-content: center;
+    text-align: center;
+    margin-top: 5rem;
+    margin-left: 27rem;
+    width: 40%;
+  }
+
+  .secaoSobre botao a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .botao_ancora:hover {
+    color: #212529;
+    background-color: #f8f9fa;
+    border-color: #f8f9fa;
+  }
+  
+  .SecaoSobre button  {
+    border: none;
+    background-color: transparent;
+  }
+  
+  

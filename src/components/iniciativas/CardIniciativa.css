@@ -1,0 +1,18 @@
+.container-card-modal {
+    margin-left: 24px;
+    margin-right: 24px;
+  }
+  
+  .container-card-modal img {
+    border-radius: 8px;
+    width: 100%;
+  }
+
+  .titulo-card{
+    text-align: center;
+    color: #303030;
+    margin-top: 10px;
+    font-size: 1.5rem;
+    font-weight: 700;
+    font-family: 'Mukta Mahee', sans-serif;
+  }

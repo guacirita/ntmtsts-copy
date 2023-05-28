@@ -1,0 +1,10 @@
+
+.secaoContribuaConteudo {
+    display: flex;
+    flex-direction: column;
+}
+
+.textoDestaque {
+    display: flex;
+    text-align: center;
+}  

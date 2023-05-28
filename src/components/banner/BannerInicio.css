@@ -1,0 +1,13 @@
+#container-banner-inicio {
+    background-color: #FFF5E6;
+    text-align: center;
+    padding: 48px 0;
+    background-image: url("https://nucleodetecnologia.com.br/assets/img/capa-site.jpg");
+    background-size: contain;
+    background-position-y: center;
+    background-position-x: center;
+    background-repeat: no-repeat;	
+  }
+  #container-banner-inicio img {
+    width: 320px;
+  }
